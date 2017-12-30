@@ -4,17 +4,15 @@ Basic python for beginners step by step. Programs are implemented with user-frie
 
 ## Getting Started
 
-* Simple Calculations 
-* Initialising variables 
-* Taking variables input 
-* For loop
-* While loop
-* Built in Data-structures like list, tuple and dictionary
-* Functions
-* Classes 
-* Iterators
-
-
+* [Simple Calculations](https://github.com/MohitChattlani/Basic-python/blob/master/calc.py) 
+* [Initialising variables](https://github.com/MohitChattlani/Basic-python/blob/master/var_initialise.py) 
+* [Taking variables input](https://github.com/MohitChattlani/Basic-python/blob/master/var_input.py)
+* [For loop](https://github.com/MohitChattlani/Basic-python/blob/master/for_loop.py)
+* [While loop](https://github.com/MohitChattlani/Basic-python/blob/master/while_loop.py)
+* [Built in Data-structures like list, tuple and dictionary](https://github.com/MohitChattlani/Basic-python/blob/master/builtin_ds.py)
+* [Functions](https://github.com/MohitChattlani/Basic-python/blob/master/simple_fn.py)
+* [Classes](https://github.com/MohitChattlani/Basic-python/blob/master/simple_class.py) 
+* [Iterators](https://github.com/MohitChattlani/Basic-python/blob/master/iterator.py)
 
 
 Contributing
